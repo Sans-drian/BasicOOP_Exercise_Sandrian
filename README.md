@@ -1,3 +1,3 @@
-# BasicOOP Exercise by Sandrian
+# BasicOOP Exercise by Sandrian [2502016411]
 
-I apologize if there are no uploads at the moment, I intend to finish this soon before the next day.
+Solution of Basic OOP Exercise. Two files in total.
